@@ -1,5 +1,6 @@
 [ 
 	{
+		"ID": "01A",
 		"PRODUCT": "Men's Fluid Flow 2.0 Running Shoes", 
 		"GRAPHIC": "fluidShoe.png", 
 		"COST": 69.99, 
@@ -10,6 +11,7 @@
 		"BRAND": "Adidas"
 	},
 	{
+		"ID": "02A",
 		"PRODUCT": "Men's Kaptir 2.0 Sneakers", 
 		"GRAPHIC": "KaptirShoe.png", 
 		"COST": 109.99, 
@@ -20,6 +22,7 @@
 		"BRAND": "Adidas"
 	},
 	{
+		"ID": "03A",
 		"PRODUCT": "Giro Fixture MIPS Bike Helmet", 
 		"GRAPHIC": "GiroHelmet.png", 
 		"COST": 99.99, 
@@ -30,6 +33,7 @@
 		"BRAND": "Adidas"
 	},
 	{
+		"ID": "04A",
 		"PRODUCT": "Nakamura KTP2 Kids Bike Helmet", 
 		"GRAPHIC": "NakamuraHelmet.png", 
 		"COST": 29.99, 
@@ -40,6 +44,7 @@
 		"BRAND": "Adidas"
 	},
 	{
+		"ID": "05A",
 		"PRODUCT": "Dakine Covert Bike Gloves", 
 		"GRAPHIC": "DakineGlove.png", 
 		"COST": 39.99, 
@@ -51,6 +56,7 @@
 	},
 	
 	{
+		"ID": "01B",
 		"PRODUCT": "Mesh Snapback Hat", 
 		"GRAPHIC": "MeshHat.png", 
 		"COST": 31.99, 
@@ -61,6 +67,7 @@
 		"BRAND": "Columbia"
 	},
 	{
+		"ID": "02B",
 		"PRODUCT": "Women's Summertide Water Shoe", 
 		"GRAPHIC": "WaterShoe.png", 
 		"COST": 110.00, 
@@ -71,6 +78,7 @@
 		"BRAND": "Columbia"
 	},
 	{
+		"ID": "03B",
 		"PRODUCT": "Men's Hood River Slide Sandal", 
 		"GRAPHIC": "HoodSandal.png", 
 		"COST": 45.00,
@@ -81,6 +89,7 @@
 		"BRAND": "Columbia"
 	},
 	{
+		"ID": "04B",
 		"PRODUCT": "Men's PFG Bahama Shoe", 
 		"GRAPHIC": "BahamaShoe.png", 
 		"COST": 100.00, 
@@ -91,6 +100,7 @@
 		"BRAND": "Columbia"
 	},
 	{
+		"ID": "05B",
 		"PRODUCT": "Unisex Atlas Explorer Backpack", 
 		"GRAPHIC": "AtlasBackpack.png", 
 		"COST": 84.99, 
@@ -101,6 +111,7 @@
 		"BRAND": "Columbia"
 	},
 	{
+		"ID": "06B",
 		"PRODUCT": "PFG Terminal Tackle Fishing Gloves", 
 		"GRAPHIC": "PFGGloves.png", 
 		"COST": 39.99, 
@@ -112,6 +123,7 @@
 	},
 	
 	{
+		"ID": "01C",
 		"PRODUCT": "Men's Project Rock Training Shoes", 
 		"GRAPHIC": "TrainingShoe.png", 
 		"COST": 190.00, 
@@ -122,6 +134,7 @@
 		"BRAND": "Under Armour"
 	},
 	{
+		"ID": "02C",
 		"PRODUCT": "Unisex Curry Flow Basketball Shoes", 
 		"GRAPHIC": "BasketballShoes.png", 
 		"COST": 190.00, 
@@ -132,6 +145,7 @@
 		"BRAND": "Under Armour"
 	},
 	{
+		"ID": "03C",
 		"PRODUCT": "UA Sonic Running Vest", 
 		"GRAPHIC": "RunningVest.png", 
 		"COST": 120.00, 
@@ -142,6 +156,7 @@
 		"BRAND": "Under Armour"
 	},
 	{
+		"ID": "04C",
 		"PRODUCT": "Men's UA Storm Gloves", 
 		"GRAPHIC": "StormGloves.png", 
 		"COST": 50.00, 
@@ -152,6 +167,7 @@
 		"BRAND": "Under Armour"
 	},
 	{
+		"ID": "05C",
 		"PRODUCT": "UA Undeniable Large Duffel Bag", 
 		"GRAPHIC": "DuffelBag.png", 
 		"COST": 65.00, 
