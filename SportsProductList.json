@@ -9,150 +9,156 @@
 		"DESC": "Ultra-breathable feel and a cushy midsole and energizes your soul.", 
 		"BRAND": "Adidas"
 	},
-	
-		{
-		"PRODUCT": "Men's Fluid Flow 2.0 Running Shoes", 
-		"GRAPHIC": "fluidShoe.png", 
-		"COST": 69.99, 
-		"MSRP": 9.99, 
-		"QTYHAND": 0,
-		"QTYBACK": 20,
-		"DESC": "Ultra-breathable feel and a cushy midsole and energizes your soul.", 
-		"BRAND": "Adidas"
-	},
-	
-		{
-		"PRODUCT": "Men's Fluid Flow 2.0 Running Shoes", 
-		"GRAPHIC": "fluidShoe.png", 
-		"COST": 69.99, 
-		"MSRP": 9.99, 
-		"QTYHAND": 0,
-		"QTYBACK": 20,
-		"DESC": "Ultra-breathable feel and a cushy midsole and energizes your soul.", 
-		"BRAND": "Adidas"
-	},
-	
-		{
-		"PRODUCT": "Men's Fluid Flow 2.0 Running Shoes", 
-		"GRAPHIC": "fluidShoe.png", 
-		"COST": 69.99, 
-		"MSRP": 9.99, 
-		"QTYHAND": 0,
-		"QTYBACK": 20,
-		"DESC": "Ultra-breathable feel and a cushy midsole and energizes your soul.", 
+	{
+		"PRODUCT": "Men's Kaptir 2.0 Sneakers", 
+		"GRAPHIC": "KaptirShoe.png", 
+		"COST": 109.99, 
+		"MSRP": 19.99, 
+		"QTYHAND": 5,
+		"QTYBACK": 10,
+		"DESC": "Running in these shoes is as much about comfort as it is style.", 
 		"BRAND": "Adidas"
 	},
 	{
-		"PRODUCT": "Men's Fluid Flow 2.0 Running Shoes", 
-		"GRAPHIC": "fluidShoe.png", 
-		"COST": 69.99, 
-		"MSRP": 9.99, 
-		"QTYHAND": 0,
-		"QTYBACK": 20,
-		"DESC": "Ultra-breathable feel and a cushy midsole and energizes your soul.", 
+		"PRODUCT": "Giro Fixture MIPS Bike Helmet", 
+		"GRAPHIC": "GiroHelmet.png", 
+		"COST": 99.99, 
+		"MSRP": 24.99, 
+		"QTYHAND": 20,
+		"QTYBACK": 15,
+		"DESC": "Wearing the Giro Fixture you can navigate busy roads and trails feeling confident in your safety.", 
 		"BRAND": "Adidas"
 	},
-
 	{
-		"PRODUCT": "Men's Fluid Flow 2.0 Running Shoes", 
-		"GRAPHIC": "fluidShoe.png", 
-		"COST": 69.99, 
-		"MSRP": 9.99, 
-		"QTYHAND": 0,
+		"PRODUCT": "Nakamura KTP2 Kids Bike Helmet", 
+		"GRAPHIC": "NakamuraHelmet.png", 
+		"COST": 29.99, 
+		"MSRP": 3.99, 
+		"QTYHAND": 25,
 		"QTYBACK": 20,
-		"DESC": "Ultra-breathable feel and a cushy midsole and energizes your soul.", 
-		"BRAND": "Columbia"
+		"DESC": "This kids helmet has many features of an adults helmet for all around safety.", 
+		"BRAND": "Adidas"
 	},
 	{
-		"PRODUCT": "Men's Fluid Flow 2.0 Running Shoes", 
-		"GRAPHIC": "fluidShoe.png", 
-		"COST": 69.99, 
-		"MSRP": 9.99, 
-		"QTYHAND": 0,
-		"QTYBACK": 20,
-		"DESC": "Ultra-breathable feel and a cushy midsole and energizes your soul.", 
-		"BRAND": "Columbia"
+		"PRODUCT": "Dakine Covert Bike Gloves", 
+		"GRAPHIC": "DakineGlove.png", 
+		"COST": 39.99, 
+		"MSRP": 6.99, 
+		"QTYHAND": 14,
+		"QTYBACK": 10,
+		"DESC": "These all-mountain bike gloves are a classic choice with an updated design.", 
+		"BRAND": "Adidas"
 	},
-	{
-		"PRODUCT": "Men's Fluid Flow 2.0 Running Shoes", 
-		"GRAPHIC": "fluidShoe.png", 
-		"COST": 69.99, 
-		"MSRP": 9.99, 
-		"QTYHAND": 0,
-		"QTYBACK": 20,
-		"DESC": "Ultra-breathable feel and a cushy midsole and energizes your soul.", 
-		"BRAND": "Columbia"
-	},
-	{
-		"PRODUCT": "Men's Fluid Flow 2.0 Running Shoes", 
-		"GRAPHIC": "fluidShoe.png", 
-		"COST": 69.99, 
-		"MSRP": 9.99, 
-		"QTYHAND": 0,
-		"QTYBACK": 20,
-		"DESC": "Ultra-breathable feel and a cushy midsole and energizes your soul.", 
-		"BRAND": "Columbia"
-	},
-	{
-		"PRODUCT": "Men's Fluid Flow 2.0 Running Shoes", 
-		"GRAPHIC": "fluidShoe.png", 
-		"COST": 69.99, 
-		"MSRP": 9.99, 
-		"QTYHAND": 0,
-		"QTYBACK": 20,
-		"DESC": "Ultra-breathable feel and a cushy midsole and energizes your soul.", 
-		"BRAND": "Columbia"
-	},
-
-	{
-		"PRODUCT": "Men's Fluid Flow 2.0 Running Shoes", 
-		"GRAPHIC": "fluidShoe.png", 
-		"COST": 69.99, 
-		"MSRP": 9.99, 
-		"QTYHAND": 0,
-		"QTYBACK": 20,
-		"DESC": "Ultra-breathable feel and a cushy midsole and energizes your soul.", 
-		"BRAND": "Dunlop"
-	},
-	{
-		"PRODUCT": "Men's Fluid Flow 2.0 Running Shoes", 
-		"GRAPHIC": "fluidShoe.png", 
-		"COST": 69.99, 
-		"MSRP": 9.99, 
-		"QTYHAND": 0,
-		"QTYBACK": 20,
-		"DESC": "Ultra-breathable feel and a cushy midsole and energizes your soul.", 
-		"BRAND": "Dunlop"
-	},
-	{
-		"PRODUCT": "Men's Fluid Flow 2.0 Running Shoes", 
-		"GRAPHIC": "fluidShoe.png", 
-		"COST": 69.99, 
-		"MSRP": 9.99, 
-		"QTYHAND": 0,
-		"QTYBACK": 20,
-		"DESC": "Ultra-breathable feel and a cushy midsole and energizes your soul.", 
-		"BRAND": "Dunlop"
-	},
-	{
-		"PRODUCT": "Men's Fluid Flow 2.0 Running Shoes", 
-		"GRAPHIC": "fluidShoe.png", 
-		"COST": 69.99, 
-		"MSRP": 9.99, 
-		"QTYHAND": 0,
-		"QTYBACK": 20,
-		"DESC": "Ultra-breathable feel and a cushy midsole and energizes your soul.", 
-		"BRAND": "Dunlop"
-	},
-	{
-		"PRODUCT": "Men's Fluid Flow 2.0 Running Shoes", 
-		"GRAPHIC": "fluidShoe.png", 
-		"COST": 69.99, 
-		"MSRP": 9.99, 
-		"QTYHAND": 0,
-		"QTYBACK": 20,
-		"DESC": "Ultra-breathable feel and a cushy midsole and energizes your soul.", 
-		"BRAND": "Dunlop"
-	},	
 	
+	{
+		"PRODUCT": "Mesh Snapback Hat", 
+		"GRAPHIC": "MeshHat.png", 
+		"COST": 31.99, 
+		"MSRP": 9.99, 
+		"QTYHAND": 15,
+		"QTYBACK": 10,
+		"DESC": "This breathable snapback is a perfect accessory for a walk in the trail, out on the beach, or working out.", 
+		"BRAND": "Columbia"
+	},
+	{
+		"PRODUCT": "Women's Summertide Water Shoe", 
+		"GRAPHIC": "WaterShoe.png", 
+		"COST": 110.00, 
+		"MSRP": 20.00, 
+		"QTYHAND": 16,
+		"QTYBACK": 5,
+		"DESC": "This sustainable and durable shoe has a vented foam midsole for maximum comfort and style.", 
+		"BRAND": "Columbia"
+	},
+	{
+		"PRODUCT": "Men's Hood River Slide Sandal", 
+		"GRAPHIC": "HoodSandal.png", 
+		"COST": 45.00,
+		"MSRP": 10.99, 
+		"QTYHAND": 20,
+		"QTYBACK": 10,
+		"DESC": "This cushioned sandal is optimal for a day on the beach.", 
+		"BRAND": "Columbia"
+	},
+	{
+		"PRODUCT": "Men's PFG Bahama Shoe", 
+		"GRAPHIC": "BahamaShoe.png", 
+		"COST": 100.00, 
+		"MSRP": 20.00, 
+		"QTYHAND": 25,
+		"QTYBACK": 15,
+		"DESC": "One of our best selling shoes for a reason. This slip-on shoe is ideal for fishing and walks in any rainy condition.", 
+		"BRAND": "Columbia"
+	},
+	{
+		"PRODUCT": "Unisex Atlas Explorer Backpack", 
+		"GRAPHIC": "AtlasBackpack.png", 
+		"COST": 84.99, 
+		"MSRP": 14.99, 
+		"QTYHAND": 6,
+		"QTYBACK": 5,
+		"DESC": "This versatile 26-liter backpack can carry all of your essentials whether for school, work, or camping.", 
+		"BRAND": "Columbia"
+	},
+	{
+		"PRODUCT": "PFG Terminal Tackle Fishing Gloves", 
+		"GRAPHIC": "PFGGloves.png", 
+		"COST": 39.99, 
+		"MSRP": 10.99, 
+		"QTYHAND": 18,
+		"QTYBACK": 10,
+		"DESC": "These fingerless gloves offer up to UPF 50 sun protection with quick-drying fabric.", 
+		"BRAND": "Columbia"
+	},
+	
+	{
+		"PRODUCT": "Men's Project Rock Training Shoes", 
+		"GRAPHIC": "TrainingShoe.png", 
+		"COST": 190.00, 
+		"MSRP": 42.99, 
+		"QTYHAND": 10,
+		"QTYBACK": 10,
+		"DESC": "This training shoe was approved by Dwayne Johnson himself.", 
+		"BRAND": "Under Armour"
+	},
+	{
+		"PRODUCT": "Unisex Curry Flow Basketball Shoes", 
+		"GRAPHIC": "BasketballShoes.png", 
+		"COST": 190.00, 
+		"MSRP": 40.99, 
+		"QTYHAND": 8,
+		"QTYBACK": 5,
+		"DESC": "These shoes feel like no other. These rubberless shoes have more grip than any conventional basketball shoe.", 
+		"BRAND": "Under Armour"
+	},
+	{
+		"PRODUCT": "UA Sonic Running Vest", 
+		"GRAPHIC": "RunningVest.png", 
+		"COST": 120.00, 
+		"MSRP": 11.99, 
+		"QTYHAND": 7,
+		"QTYBACK": 10,
+		"DESC": "A running vest and hydration pack that is built for tough climbs without hurting posture", 
+		"BRAND": "Under Armour"
+	},
+	{
+		"PRODUCT": "Men's UA Storm Gloves", 
+		"GRAPHIC": "StormGloves.png", 
+		"COST": 50.00, 
+		"MSRP": 15.00, 
+		"QTYHAND": 10,
+		"QTYBACK": 10,
+		"DESC": "The comfort, reliability, and grip of these gloves make handling any cold weather easy.", 
+		"BRAND": "Under Armour"
+	},
+	{
+		"PRODUCT": "UA Undeniable Large Duffel Bag", 
+		"GRAPHIC": "DuffelBag.png", 
+		"COST": 65.00, 
+		"MSRP": 25.00, 
+		"QTYHAND": 12,
+		"QTYBACK": 8,
+		"DESC": "A lightweight bag with abrasion-resistant bottom and side-panels, and removable HeatGear.", 
+		"BRAND": "Under Armour"
+	}	
 ]
